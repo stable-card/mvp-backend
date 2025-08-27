@@ -101,7 +101,6 @@ The MVP backend exposes the following endpoints:
 ### Prerequisites
 
 - Go 1.18 or higher
-- Git
 
 ### Installation & Running
 
@@ -148,7 +147,6 @@ mvp-backend/
 ## Future Work (Based on Proposal)
 
 - **LLM Integration**: Implement the LLM policy compiler to translate natural language to a policy DSL.
-- **On-Chain Contracts**: Develop and integrate the core smart contracts (`PolicyStore`, `PolicyGuard`, `RewardVault`, `TopupPool`, `MerchantRegistry`).
 - **Full Database Integration**: Replace in-memory repositories with a persistent database.
 - **Brand/Merchant Features**: Implement the Brand Console and the decentralized merchant registration system.
 - **Authentication & Security**: Add robust authentication and security measures.
