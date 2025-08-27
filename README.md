@@ -1,6 +1,6 @@
-# Flex-Perks: Programmable Rewards Card MVP
+# Flex-Perks: On-Chain Programmable Card Benefits
 
-Flex-Perks is an MVP project for a programmable credit/check card benefits card that individuals can design themselves.
+Flex-Perks is a project for a programmable credit/check card benefits card that individuals can design themselves.
 
 ## Core Idea
 
